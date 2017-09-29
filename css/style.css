@@ -1,0 +1,31 @@
+@media only screen and (min-width: 768px) {
+    .navbar-brand{
+        position: absolute;
+        margin-left: 45.5%;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .nav-item.text-right{
+        text-align: left! important;
+    }
+}
+
+.showed{
+    border: solid 2px red;
+}
+
+.shows{
+    border: solid 2px blue;
+}
+.shower{
+    border: dashed 1px #234567;
+}
+img{
+    overflow: hidden;
+}
+
+.bordered-for-visibility{
+    border: 2px dashed white;
+    border-top: none;
+    border-bottom: none;
+}
