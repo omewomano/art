@@ -246,7 +246,6 @@ input[type=range]:focus::-ms-fill-upper {
 
 .bordered{
     border-top: solid 1px #333;
-    border-bottom: solid 1px #333;
 }
 
 .subscribe{
